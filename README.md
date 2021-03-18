@@ -1,0 +1,1 @@
+# Tugas-Pengantar-AI-1_Genetic-Algorithm
